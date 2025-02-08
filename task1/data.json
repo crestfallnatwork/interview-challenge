@@ -1,0 +1,899 @@
+[
+  {
+    "name": "Christopher Reid, MD",
+    "gender": "Male",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1174525364",
+    "phone": "8504444700",
+    "locations": null,
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Critical Care Nephrology, Nephrology",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Reid%20cropped.jpg"
+  },
+  {
+    "name": "Gregory D. Price Sr, MD",
+    "gender": "Male",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1699761106",
+    "phone": "3342224327",
+    "locations": [
+      {
+        "address": "215 Medical Park Drive\nSuite 1\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/heartinstituteofandalusia1294",
+        "phone": "3342224327",
+        "name": "Heart Institute of Andalusia"
+      },
+      {
+        "address": "849 S 3 Notch Street\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiahealth",
+        "phone": "3342228466",
+        "name": "Andalusia Health"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Preventive Cardiology",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Price.jpg"
+  },
+  {
+    "name": "Bhagwan Bang, MD",
+    "gender": "Male",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1487615084",
+    "phone": "3344932400",
+    "locations": [
+      {
+        "address": "101 Paulk Ave, Suite B\nOpp, AL 36467",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/southalabamapediatrics2460",
+        "phone": "3344932400",
+        "name": "South Alabama Pediatrics"
+      },
+      {
+        "address": "849 S 3 Notch Street\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiahealth",
+        "phone": "3342228466",
+        "name": "Andalusia Health"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Pediatrics",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Bang.jpg"
+  },
+  {
+    "name": "Connie Lasley, CRNP",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1548858202",
+    "phone": "3342222393",
+    "locations": [
+      {
+        "address": "300 Medical Avenue\nSuite 100\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiaurology96",
+        "phone": "3342222393",
+        "name": "Andalusia Urology"
+      }
+    ],
+    "rating": "4.7",
+    "reviews": "164",
+    "accept_new": false,
+    "employed": true,
+    "specialities": "Urology",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Lasley%20CFNP%20Small%20copy.jpg"
+  },
+  {
+    "name": "Heide Price, FNP",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1033431465",
+    "phone": "3342224327",
+    "locations": [
+      {
+        "address": "215 Medical Park Drive\nSuite 1\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/heartinstituteofandalusia1294",
+        "phone": "3342224327",
+        "name": "Heart Institute of Andalusia"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Family Medicine, Preventive Cardiology",
+    "image": null
+  },
+  {
+    "name": "Ricky Lewis, CRNP",
+    "gender": "Male",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1194747584",
+    "phone": "3342228421",
+    "locations": [
+      {
+        "address": "835 S Three Notch St\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/jfmaddoxmdthreenotchmedicalcenter1390",
+        "phone": "3342228421",
+        "name": "Three Notch Medical Center"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Nurse Practitioner",
+    "image": null
+  },
+  {
+    "name": "Rex Butler, MD",
+    "gender": "Male",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1730184961",
+    "phone": "3342228525",
+    "locations": [
+      {
+        "address": "843 South Three Notch St\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/southcentralmedicalcenter",
+        "phone": "3342228525",
+        "name": "South Central Medical Center"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Internal Medicine",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Butler.jpg"
+  },
+  {
+    "name": "Christyl Hines, CRNP",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1861830689",
+    "phone": "3342227337",
+    "locations": [
+      {
+        "address": "301 Medical Avenue\nSuite A\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiapediatrics95",
+        "phone": "3342227337",
+        "name": "Andalusia Pediatrics"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": true,
+    "specialities": "Pediatrics",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Christyl%20Hines%20small.jpg"
+  },
+  {
+    "name": "Gabrielle Baldwin, MD",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1528150521",
+    "phone": "3342227337",
+    "locations": [
+      {
+        "address": "301 Medical Avenue\nSuite A\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiapediatrics95",
+        "phone": "3342227337",
+        "name": "Andalusia Pediatrics"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": true,
+    "specialities": "Pediatrics",
+    "image": "https://connectimages.azureedge.net/providerimages/9eb91cea-158c-4433-b42d-fe512e05ca9c/3/Baldwin.jpeg"
+  },
+  {
+    "name": "Timothy Day, MD",
+    "gender": "Male",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1124083449",
+    "phone": "3342224191",
+    "locations": [
+      {
+        "address": "820 South Three Notch Street\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/daywellsmd804",
+        "phone": "3342224191",
+        "name": "Andalusia General Surgeons"
+      },
+      {
+        "address": "849 S 3 Notch Street\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiahealth",
+        "phone": "3342228466",
+        "name": "Andalusia Health"
+      }
+    ],
+    "rating": "4.7",
+    "reviews": "173",
+    "accept_new": true,
+    "employed": true,
+    "specialities": "General Surgery",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Day.jpg"
+  },
+  {
+    "name": "Sherry Wright, CRNP",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1922366103",
+    "phone": "3342222073",
+    "locations": [
+      {
+        "address": "301 Medical Avenue\nSuite C\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiaorthopedicsandsportsmedicine94",
+        "phone": "3342222073",
+        "name": "Andalusia Orthopedics and Sports Medicine"
+      }
+    ],
+    "rating": "4.7",
+    "reviews": "115",
+    "accept_new": true,
+    "employed": true,
+    "specialities": "Orthopedic Surgery",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/9eb91cea-158c-4433-b42d-fe512e05ca9c/3/8.jpg"
+  },
+  {
+    "name": "Kelly Hammett, CRNP",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1518340777",
+    "phone": "3344282273",
+    "locations": [
+      {
+        "address": "847 Western Bypass\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiawalkinclinic97",
+        "phone": "3344282273",
+        "name": "Andalusia Walk-In Clinic"
+      }
+    ],
+    "rating": "4.7",
+    "reviews": "127",
+    "accept_new": true,
+    "employed": true,
+    "specialities": "Nurse Practitioner",
+    "image": "https://connectimages.azureedge.net/providerimages/9eb91cea-158c-4433-b42d-fe512e05ca9c/3/Kelly%20Hammett.jpg"
+  },
+  {
+    "name": "Micalyn Kelley, APRN",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1205588803",
+    "phone": "8504444700",
+    "locations": [
+      {
+        "address": "1619 Creighton Road\nSuite 1\nPansacola, FL 32504-7152",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/pensacolanephrologydbarenaluscenterforkidneycare2089",
+        "phone": "8889",
+        "name": "Pensacola Nephrology d/b/a Renalus Center for Kidney Care"
+      },
+      {
+        "address": "849 S 3 Notch Street\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiahealth",
+        "phone": "3342228466",
+        "name": "Andalusia Health"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": false,
+    "employed": false,
+    "specialities": "Nurse Practitioner",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/278950825_10103570498844003_6216667209515053572_n.jpg"
+  },
+  {
+    "name": "Kathrine Langley, CRNP",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1407440829",
+    "phone": "3342221366",
+    "locations": [
+      {
+        "address": "847 Western Bypass\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/301medicalsuitedrive",
+        "phone": "3342221366",
+        "name": "Andalusia Family Healthcare"
+      }
+    ],
+    "rating": "4.7",
+    "reviews": "133",
+    "accept_new": true,
+    "employed": true,
+    "specialities": "Family Medicine",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/321284829_456332470006363_8752911111625142886_n.jpg"
+  },
+  {
+    "name": "Srividhya Sridharan, MD",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1720465909",
+    "phone": "3342227337",
+    "locations": [
+      {
+        "address": "301 Medical Avenue\nSuite A\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiapediatrics95",
+        "phone": "3342227337",
+        "name": "Andalusia Pediatrics"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": true,
+    "specialities": "Pediatrics",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Dr%20Vidhya%20small.jpg"
+  },
+  {
+    "name": "Robert L. Long, MD",
+    "gender": "Male",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1356317002",
+    "phone": "3342222393",
+    "locations": [
+      {
+        "address": "300 Medical Avenue\nSuite 100\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiaurology96",
+        "phone": "3342222393",
+        "name": "Andalusia Urology"
+      }
+    ],
+    "rating": "4.7",
+    "reviews": "102",
+    "accept_new": true,
+    "employed": true,
+    "specialities": "Urology",
+    "image": "https://connectimages.azureedge.net/providerimages/9eb91cea-158c-4433-b42d-fe512e05ca9c/3/50%20(1).jpg"
+  },
+  {
+    "name": "Asia Dutton, CRNP",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1457960635",
+    "phone": "3344282273",
+    "locations": [
+      {
+        "address": "847 Western Bypass\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiawalkinclinic97",
+        "phone": "3344282273",
+        "name": "Andalusia Walk-In Clinic"
+      }
+    ],
+    "rating": "4.6",
+    "reviews": "176",
+    "accept_new": true,
+    "employed": true,
+    "specialities": "Family Medicine",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Asia%20Dutton%20small.jpg"
+  },
+  {
+    "name": "Patrick Kelly, DO",
+    "gender": "Male",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1184679417",
+    "phone": "3342222073",
+    "locations": [
+      {
+        "address": "301 Medical Avenue\nSuite C\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiaorthopedicsandsportsmedicine94",
+        "phone": "3342222073",
+        "name": "Andalusia Orthopedics and Sports Medicine"
+      }
+    ],
+    "rating": "4.7",
+    "reviews": "85",
+    "accept_new": true,
+    "employed": true,
+    "specialities": "Orthopedic Surgery, Orthopedics - General, Orthopedic Sports Medicine",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Dr.%20Kelly%20color%20small.jpg"
+  },
+  {
+    "name": "Hejal Patel, MD",
+    "gender": "Male",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1174746168",
+    "phone": "3347932312",
+    "locations": null,
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Radiation Oncology",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Patel.jpg"
+  },
+  {
+    "name": "Carson Klein, M.D.",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1174150783",
+    "phone": "3342221022",
+    "locations": [
+      {
+        "address": "109 Medical Park Dr\nSuite B\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiawomensservices",
+        "phone": "3342221022",
+        "name": "Andalusia Women's Services + Family Health"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": true,
+    "specialities": "Obstetrics, Family Medicine",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/9eb91cea-158c-4433-b42d-fe512e05ca9c/3/Pic%20Klein.JPG"
+  },
+  {
+    "name": "Ashton Wells, MD",
+    "gender": "Male",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1215974233",
+    "phone": "3342224191",
+    "locations": [
+      {
+        "address": "820 South Three Notch Street\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/daywellsmd804",
+        "phone": "3342224191",
+        "name": "Andalusia General Surgeons"
+      },
+      {
+        "address": "849 S 3 Notch Street\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiahealth",
+        "phone": "3342228466",
+        "name": "Andalusia Health"
+      }
+    ],
+    "rating": "4.7",
+    "reviews": "173",
+    "accept_new": true,
+    "employed": true,
+    "specialities": "General Surgery",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Wells,%20A.jpg"
+  },
+  {
+    "name": "Jenny Goss, CNM",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1578984811",
+    "phone": "3342221366",
+    "locations": [
+      {
+        "address": "109 Medical Park Dr\nSuite B\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiawomensservices",
+        "phone": "3342221022",
+        "name": "Andalusia Women's Services + Family Health"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": true,
+    "specialities": "Midwife",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Jenny%20Goss%20small.jpg"
+  },
+  {
+    "name": "April Johnson, CRNP",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1568815793",
+    "phone": "3344282273",
+    "locations": [
+      {
+        "address": "847 Western Bypass\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiawalkinclinic97",
+        "phone": "3344282273",
+        "name": "Andalusia Walk-In Clinic"
+      }
+    ],
+    "rating": "4.6",
+    "reviews": "181",
+    "accept_new": true,
+    "employed": true,
+    "specialities": "Nurse Practitioner",
+    "image": "https://connectimages.azureedge.net/providerimages/9eb91cea-158c-4433-b42d-fe512e05ca9c/3/image001%20(3).png"
+  },
+  {
+    "name": "Candace Cassady, CRNP",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1093922718",
+    "phone": "3342222562",
+    "locations": null,
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Hematology - Oncology",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/9eb91cea-158c-4433-b42d-fe512e05ca9c/3/285301813_10209998436394285_6583605678937369735_n.jpg"
+  },
+  {
+    "name": "Kristy Nichols, CRNP",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1891945614",
+    "phone": "3342222073",
+    "locations": [
+      {
+        "address": "301 Medical Avenue\nSuite C\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiaorthopedicsandsportsmedicine94",
+        "phone": "3342222073",
+        "name": "Andalusia Orthopedics and Sports Medicine"
+      }
+    ],
+    "rating": "4.8",
+    "reviews": "130",
+    "accept_new": true,
+    "employed": true,
+    "specialities": "Orthopedic Surgery",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/9eb91cea-158c-4433-b42d-fe512e05ca9c/3/14.jpg"
+  },
+  {
+    "name": "Hope Veasey, CRNP",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1194448506",
+    "phone": "3342227337",
+    "locations": [
+      {
+        "address": "301 Medical Avenue\nSuite A\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiapediatrics95",
+        "phone": "3342227337",
+        "name": "Andalusia Pediatrics"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": true,
+    "specialities": "Pediatrics",
+    "image": "https://connectimages.azureedge.net/providerimages/9eb91cea-158c-4433-b42d-fe512e05ca9c/3/HopeCaton.jpeg"
+  },
+  {
+    "name": "William Farmer, MD",
+    "gender": "Male",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1710962535",
+    "phone": "3342221366",
+    "locations": [
+      {
+        "address": "847 Western Bypass\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/301medicalsuitedrive",
+        "phone": "3342221366",
+        "name": "Andalusia Family Healthcare"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": true,
+    "specialities": "Internal Medicine",
+    "image": null
+  },
+  {
+    "name": "Jill Elmore, CRNP",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1285841270",
+    "phone": "3342221366",
+    "locations": [
+      {
+        "address": "847 Western Bypass\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/301medicalsuitedrive",
+        "phone": "3342221366",
+        "name": "Andalusia Family Healthcare"
+      }
+    ],
+    "rating": "4.7",
+    "reviews": "175",
+    "accept_new": true,
+    "employed": true,
+    "specialities": "Family Medicine",
+    "image": "https://connectimages.azureedge.net/providerimages/9eb91cea-158c-4433-b42d-fe512e05ca9c/3/Jill%20Elmore%20Headshot.jfif"
+  },
+  {
+    "name": "Sadik Yesil, MD",
+    "gender": "Male",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1760471817",
+    "phone": "3342223222",
+    "locations": [
+      {
+        "address": "947 South Three Notch\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/sadikyesilmd2375",
+        "phone": "3342223222",
+        "name": "Andalusia Neurology"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Family Medicine, Neurology, Hospice & Palliative Care",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Yesil.jpg"
+  },
+  {
+    "name": "Holli Johnson, CRNP",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1184092488",
+    "phone": "3342222115",
+    "locations": [
+      {
+        "address": "300 Medical Avenue\nSuite 200\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiadermatology",
+        "phone": "3342222115",
+        "name": "Andalusia Dermatology"
+      }
+    ],
+    "rating": "4.8",
+    "reviews": "290",
+    "accept_new": true,
+    "employed": true,
+    "specialities": "Dermatology",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Johnson%20Holli%20(2)%20small.jpg"
+  },
+  {
+    "name": "JoAnne Smith, DO",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1104821099",
+    "phone": "3342220625",
+    "locations": [
+      {
+        "address": "601 West Bypass\nP. O. Box 609\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/balancedfamilyhealthcare205",
+        "phone": "3342220625",
+        "name": "Balanced Family Health Care"
+      },
+      {
+        "address": "849 S 3 Notch Street\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiahealth",
+        "phone": "3342228466",
+        "name": "Andalusia Health"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Family Medicine, Adolescent Medicine",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Smith.jpg"
+  },
+  {
+    "name": "Charles R. Kerr, MD",
+    "gender": "Male",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1790798973",
+    "phone": "3342220995",
+    "locations": [
+      {
+        "address": "712 East Three Notch St\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiafamilypractice",
+        "phone": "3342228450",
+        "name": "Andalusia Family Practice"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Family Medicine, Adolescent Medicine",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Kerr.jpg"
+  },
+  {
+    "name": "Alexandru Benet, MD",
+    "gender": "Male",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1033114269",
+    "phone": "3344274999",
+    "locations": [
+      {
+        "address": "849 S 3 Notch Street\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiahealth",
+        "phone": "3342228466",
+        "name": "Andalusia Health"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Urology",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Benet.jpg"
+  },
+  {
+    "name": "Caleb Yongkuma, MD",
+    "gender": "Male",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1417148081",
+    "phone": "3342226041",
+    "locations": [
+      {
+        "address": "1212 East Three Notch Street\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/vyasvyasmd3034",
+        "phone": "3342226041",
+        "name": "Vyas & Vyas MD"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Internal Medicine",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Yongkuma.jpg"
+  },
+  {
+    "name": "Lee Carney, MD",
+    "gender": "Male",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1407943442",
+    "phone": "3342225781",
+    "locations": [
+      {
+        "address": "849 S 3 Notch Street\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiahealth",
+        "phone": "3342228466",
+        "name": "Andalusia Health"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Obstetrics & Gynecology, Female Pelvic Medicine & Reconstructive Surgery",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Carney2.jpg"
+  },
+  {
+    "name": "Christopher Blatz, CRNA",
+    "gender": "Male",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1700922028",
+    "phone": "3344287047",
+    "locations": [
+      {
+        "address": "849 S 3 Notch Street\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiahealth",
+        "phone": "3342228466",
+        "name": "Andalusia Health"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Anesthesiology",
+    "image": "https://connectimages.azureedge.net/providerimages/9eb91cea-158c-4433-b42d-fe512e05ca9c/3/Chris%20Blatz%20copy.jpg"
+  },
+  {
+    "name": "Amy Dugger, FNP",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1508174236",
+    "phone": "8504444700",
+    "locations": [
+      {
+        "address": "849 S 3 Notch Street\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiahealth",
+        "phone": "3342228466",
+        "name": "Andalusia Health"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Nurse Practitioner",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/9eb91cea-158c-4433-b42d-fe512e05ca9c/3/renalus-ARNP-a_dugger.jpg"
+  },
+  {
+    "name": "Willie Furr, CRNA",
+    "gender": "Male",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1023065398",
+    "phone": "3344287047",
+    "locations": [
+      {
+        "address": "849 S 3 Notch Street\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiahealth",
+        "phone": "3342228466",
+        "name": "Andalusia Health"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Anesthesiology",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/Willie%20Furr%20copy.jpg"
+  },
+  {
+    "name": "Sandy Griffin, CRNA",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1114931144",
+    "phone": "3344287047",
+    "locations": [
+      {
+        "address": "849 S 3 Notch Street\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiahealth",
+        "phone": "3342228466",
+        "name": "Andalusia Health"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Anesthesiology",
+    "image": null
+  },
+  {
+    "name": "Mary Elizabeth Hobson, CRNA",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1710212170",
+    "phone": "3342228466",
+    "locations": [
+      {
+        "address": "849 S 3 Notch Street\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiahealth",
+        "phone": "3342228466",
+        "name": "Andalusia Health"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": false,
+    "employed": false,
+    "specialities": "Anesthesiology",
+    "image": "https://connectimages.azureedge.net/providerimages/9eb91cea-158c-4433-b42d-fe512e05ca9c/3/Mary%20Elizabeth%20Hobson%20color.jpg"
+  },
+  {
+    "name": "Michele Thomason, CRNA",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1114974482",
+    "phone": "3344287047",
+    "locations": [
+      {
+        "address": "849 S 3 Notch Street\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiahealth",
+        "phone": "3342228466",
+        "name": "Andalusia Health"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Anesthesiology",
+    "image": "https://connectimages.azureedge.net/providerimages/9eb91cea-158c-4433-b42d-fe512e05ca9c/3/Michele%20Thomason%20copy.jpg"
+  },
+  {
+    "name": "Julie Gay, CRNA",
+    "gender": "Female",
+    "languages": "English",
+    "link": "https://www.andalusiahealth.com/find-a-doctor/provider/1730417973",
+    "phone": "3344287047",
+    "locations": [
+      {
+        "address": "849 S 3 Notch Street\nAndalusia, AL 36420",
+        "link": "https://www.andalusiahealth.com/find-a-doctor/location/andalusiahealth",
+        "phone": "3342228466",
+        "name": "Andalusia Health"
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "accept_new": true,
+    "employed": false,
+    "specialities": "Anesthesiology",
+    "image": "https://connect-cdn.loyalhealth.com/providerimages/502B3446-4551-459A-8170-90166B121AD9/3/289763312_5206399046109478_8098598080740415979_n.jpg"
+  }
+]

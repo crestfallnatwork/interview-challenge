@@ -21,11 +21,11 @@ After storing the data, analyze it to generate the following insights:
 4. Doctors with more than one location
 
 ## Result Files 
-`schema.sql` contains the database schema
-`queries.sql` contains the database queries, along with results
-`queries` contains result of all the queries in csv form
-`data.json` contains the extracted dataset
-`data.sql` contains the database dump
+- `schema.sql` contains the database schema
+- `queries.sql` contains the database queries, along with results
+- `queries` contains result of all the queries in csv form
+- `data.json` contains the extracted dataset
+- `data.sql` contains the database dump
 
 ## Codebase explanation
 There are three scripts in total that work in conjunction to scrape data.

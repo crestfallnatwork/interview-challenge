@@ -1,0 +1,5 @@
+CustomerSegment,COUNT(OrderID)
+Consumer,293
+Small Business,262
+Home Office,334
+Corporate,470

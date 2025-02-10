@@ -1,0 +1,59 @@
+-- 10. Find the total profit for each state
+
+select StateOrProvince, sum(Profit)
+from data
+group by StateOrProvince;
+
+-- +-----------------------+---------------------+
+-- |    StateOrProvince    |     SUM(Profit)     |
+-- +-----------------------+---------------------+
+-- | Mississippi           |          -529.91495 |
+-- | Illinois              |  12321.579311999994 |
+-- | Arkansas              |          -1184.7472 |
+-- | Missouri              |  2123.2119000000002 |
+-- | Indiana               |   -976.949505000001 |
+-- | Colorado              |   6965.462660000001 |
+-- | Tennessee             | -1603.4634000000008 |
+-- | Washington            |  116.21885000000084 |
+-- | Texas                 |         27288.38666 |
+-- | Georgia               |   8645.207413699996 |
+-- | New York              |  27611.943318600006 |
+-- | Minnesota             |          6932.44586 |
+-- | Pennsylvania          |  -1556.182524599999 |
+-- | California            |  36187.568192000006 |
+-- | Oklahoma              |          2555.98952 |
+-- | North Carolina        | -19337.166839999983 |
+-- | Iowa                  |   1262.430580000001 |
+-- | New Jersey            |   770.9086880000001 |
+-- | Virginia              | -1748.5516999999995 |
+-- | New Mexico            |          4215.91948 |
+-- | Kentucky              |  -1982.645000000001 |
+-- | Louisiana             |           710.12542 |
+-- | Florida               |   322.0738399999999 |
+-- | Ohio                  |  23410.842026000006 |
+-- | Michigan              |  12307.551891600004 |
+-- | Nebraska              |          4675.60033 |
+-- | Oregon                |  15291.572600000001 |
+-- | Idaho                 |           6848.3533 |
+-- | Utah                  |  3931.8369799999987 |
+-- | New Hampshire         |  3611.0573999999997 |
+-- | Alabama               | -2418.0565999999994 |
+-- | Massachusetts         |          5293.78398 |
+-- | South Dakota          |            431.1862 |
+-- | South Carolina        |         1695.783237 |
+-- | Wisconsin             |  3986.4100599999974 |
+-- | Kansas                |          2725.77636 |
+-- | Connecticut           |           -529.1063 |
+-- | Maryland              |  1336.0164599999991 |
+-- | Maine                 |   3169.462893000001 |
+-- | Arizona               |  3909.7538320000003 |
+-- | Vermont               |   530.1497800000002 |
+-- | Montana               |        -13759.20549 |
+-- | Nevada                |  3788.8289959999997 |
+-- | North Dakota          |  3012.1560999999997 |
+-- | Wyoming               |             735.225 |
+-- | District of Columbia  |  11677.363099999999 |
+-- | Rhode Island          |   5073.001399999999 |
+-- | West Virginia         |   4771.463824999999 |
+-- | Delaware              |            406.7418 |
+-- +-----------------------+---------------------+
